@@ -2,7 +2,7 @@
   "name": "karen-nalbandian/phalcon-coding-standard",
   "version": "1.0.0",
   "type": "coding-standard",
-  "description": "CodeSniffer ruleset for the Symfony coding standard (PCG Cube flavor)",
+  "description": "CodeSniffer ruleset for the Phalcon coding standard (PCG Cube flavor)",
   "keywords": [
     "PCG Cube",
     "Phalcon PHP",

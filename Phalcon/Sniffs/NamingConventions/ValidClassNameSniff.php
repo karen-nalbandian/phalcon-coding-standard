@@ -20,7 +20,7 @@ use PHP_CodeSniffer\Files\File;
 /**
  * ValidClassNameSniff.
  *
- * Throws errors if symfony's naming conventions are not met.
+ * Throws errors if phalcon's naming conventions are not met.
  *
  * PHP version 5
  *
