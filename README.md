@@ -52,9 +52,9 @@ This standard can be installed with the [Composer](https://getcomposer.org/) dep
 
         phpcs --config-set installed_paths /path/to/phalcon-coding-standard
 
-   Or copy/symlink this repository's "PCGuard"-folder inside the phpcs `Standards` directory
+   Or copy/symlink this repository's "Phalcon"-folder inside the phpcs `Standards` directory
 
-4. Check the installed coding standards for "PCGuard"
+4. Check the installed coding standards for "Phalcon"
 
         phpcs -i
 
