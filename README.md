@@ -3,6 +3,8 @@
 A coding standard to check against the [Phalcon coding standards](https://github.com/framgia/coding-standards/blob/master/eng/php/phalcon.md),
 with slight modifications.
 
+_Important note:_ Please be careful using this library, as it is for internal usage, and probably will not be maintained
+
 ## Differences
 
 The following standards has been modified:
