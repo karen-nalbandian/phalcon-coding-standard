@@ -59,6 +59,9 @@
     <rule ref="Zend.NamingConventions.ValidVariableName.ContainsNumbers">
         <severity>0</severity>
     </rule>
+    <rule ref="Zend.NamingConventions.ValidVariableName.MemberVarContainsNumbers">
+        <severity>0</severity>
+    </rule>
 
     <!-- In practice, Phalcon spaces multiline function calls differently than Zend -->
     <rule ref="PEAR.Functions.FunctionCallSignature.ContentAfterOpenBracket">
