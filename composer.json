@@ -1,6 +1,6 @@
 {
   "name": "karen-nalbandian/phalcon-coding-standard",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "coding-standard",
   "description": "CodeSniffer ruleset for the Phalcon coding standard (PCG Cube flavor)",
   "keywords": [

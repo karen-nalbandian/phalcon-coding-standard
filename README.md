@@ -15,6 +15,8 @@ The following standards has been modified:
 - removed the Phalcon.Functions.Arguments.Invalid
 - removed the Squiz.Strings.ConcatenationSpacing.PaddingFound
 - removed the PSR2.Classes.PropertyDeclaration.Underscore
+- removed the Zend.NamingConventions.ValidVariableName.ContainsNumbers
+- removed the Zend.NamingConventions.ValidVariableName.MemberVarContainsNumbers
 
 ## Installation
 
